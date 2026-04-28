@@ -1,0 +1,10 @@
+dashboard-env/
+__pycache__/
+*.pyc
+images/
+.vscode/
+examples/
+src/envs/
+.cache.sqlite
+src/logs/
+lib/*
