@@ -1,0 +1,183 @@
+2026-04-26 15:44:06,918 [INFO] __main__: Dashboard Started
+2026-04-26 15:45:55,171 [WARNING] __main__: Detected Keyboard Interrupt
+2026-04-26 15:46:22,875 [INFO] __main__: Display Slept
+2026-04-26 15:46:49,709 [WARNING] __main__: Detected Keyboard Interrupt
+2026-04-26 15:47:18,605 [INFO] __main__: Dashboard Started
+2026-04-26 15:47:29,588 [WARNING] __main__: Detected Keyboard Interrupt
+2026-04-26 15:47:57,218 [INFO] __main__: Display Slept
+2026-04-26 15:48:44,521 [INFO] __main__: Dashboard Started
+2026-04-26 18:15:00,029 [WARNING] urllib3.connectionpool: Retrying (Retry(total=4, connect=5, read=4, redirect=None, status=None)) after connection broken by 'ProtocolError('Remote end closed connection without response')': /v1/forecast?latitude=51.4136&longitude=-0.7505&daily=temperature_2m_max&daily=temperature_2m_min&hourly=temperature_2m&hourly=precipitation_probability&hourly=weather_code&current=temperature_2m&current=precipitation_probability&current=weather_code&timezone=GMT&forecast_days=2&format=flatbuffers
+2026-04-26 23:06:14,976 [WARNING] __main__: Detected Keyboard Interrupt
+2026-04-26 23:06:26,162 [INFO] __main__: Display Slept
+2026-04-27 10:44:05,658 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7cae63c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:44:05,659 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:44:05,660 [INFO] __main__: Dashboard Started
+2026-04-27 10:45:03,994 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de951d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:45:03,994 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:45:07,066 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:45:07,066 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:46:03,994 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaaad0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:46:03,994 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:46:07,066 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de96fd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:46:07,066 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:47:03,930 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaaad0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:47:03,930 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:47:07,002 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:47:07,002 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:48:03,898 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:48:03,898 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:48:06,970 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de960d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:48:06,970 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:49:03,834 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:49:03,834 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:49:06,906 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de974d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:49:06,906 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:50:03,962 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:50:03,962 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:50:07,034 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:50:07,034 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:51:03,866 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:51:03,866 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:51:06,938 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:51:06,938 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:52:03,866 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:52:03,866 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:52:06,938 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de960d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:52:06,938 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:53:03,898 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:53:03,898 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:53:06,970 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaaad0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:53:06,970 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:54:03,898 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaaad0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:54:03,898 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:54:06,970 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:54:06,970 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:55:04,090 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:55:04,090 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:55:07,162 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:55:07,162 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:56:03,994 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaaad0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:56:03,994 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:56:07,066 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:56:07,066 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:57:03,962 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:57:03,962 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:57:07,034 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de960d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:57:07,034 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:58:03,994 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:58:03,994 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:58:07,066 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de96fd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:58:07,066 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:59:04,122 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:59:04,122 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 10:59:07,194 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97250>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 10:59:07,194 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:00:30,938 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:00:30,938 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:00:34,010 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97250>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:00:34,010 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:02:04,026 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:02:04,026 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:02:07,098 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de960d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:02:07,098 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:03:03,898 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:03:03,898 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:03:06,970 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:03:06,970 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:04:03,962 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:04:03,962 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:04:07,034 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7c8fc2d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:04:07,034 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:05:04,090 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:05:04,090 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:05:07,162 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de960d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:05:07,162 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:06:03,930 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:06:03,930 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:06:07,002 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:06:07,002 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:07:03,866 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de96fd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:07:03,866 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:07:06,938 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7c8fc910>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:07:06,938 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:08:03,898 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:08:03,898 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:08:06,970 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7c8fca50>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:08:06,970 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:09:04,506 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:09:04,506 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:09:07,578 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7c8fcb90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:09:07,578 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:10:03,898 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaae90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:10:03,898 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:10:06,970 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7c8fcb90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:10:06,970 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:11:03,994 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:11:03,994 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:11:07,066 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:11:07,066 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:12:03,898 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff8f5a39d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:12:03,898 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:12:06,970 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaaad0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:12:06,970 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:13:03,962 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:13:03,962 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:13:07,034 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:13:07,034 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:14:03,834 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:14:03,834 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:14:06,910 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97250>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:14:06,910 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:15:04,090 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:15:04,090 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:15:07,162 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de960d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:15:07,162 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:16:04,058 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:16:04,058 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:16:07,130 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de951d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:16:07,130 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:17:04,026 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:17:04,026 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:17:07,098 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97390>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:17:07,098 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:18:03,994 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:18:03,994 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:18:07,066 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de974d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:18:07,066 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:19:03,930 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:19:03,930 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:19:07,002 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97390>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:19:07,002 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:20:03,834 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:20:03,834 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:20:06,910 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:20:06,910 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:21:03,962 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:21:03,962 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:21:07,034 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de951d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:21:07,034 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:22:03,930 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7ddaafd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:22:03,930 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:22:07,002 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de95f90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:22:07,002 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:23:03,962 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de951d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:23:03,962 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:23:07,034 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97390>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:23:07,034 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:24:03,866 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97390>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:24:03,866 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:24:06,938 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de97890>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:24:06,938 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:25:03,866 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7de951d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:25:03,866 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-27 11:25:06,938 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff7c8fc190>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 11:25:06,938 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-28 13:51:24,764 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff10bb63c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-28 13:51:24,764 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-28 13:51:24,766 [INFO] __main__: Dashboard Started
+2026-04-28 13:52:05,084 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff11f66fd0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-28 13:52:05,084 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-28 13:52:08,156 [ERROR] api: ESP32 request failed: HTTPConnectionPool(host='192.168.1.30', port=80): Max retries exceeded with url: /sht31 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fff11f67890>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-28 13:52:08,156 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
+2026-04-28 16:44:20,115 [WARNING] __main__: Detected Keyboard Interrupt
+2026-04-28 16:44:43,705 [INFO] __main__: Display Slept
