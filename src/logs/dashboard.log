@@ -181,3 +181,13 @@
 2026-04-28 13:52:08,156 [WARNING] api: fetch_room_info: Invalid data received, keeping old cache
 2026-04-28 16:44:20,115 [WARNING] __main__: Detected Keyboard Interrupt
 2026-04-28 16:44:43,705 [INFO] __main__: Display Slept
+2026-04-28 17:38:54,951 [INFO] __main__: Dashboard Started
+2026-04-28 17:39:20,307 [INFO] __main__: Display Slept
+2026-04-28 17:43:46,446 [INFO] __main__: Dashboard Started
+2026-04-28 17:43:46,457 [WARNING] waveshare_epd.epd7in5h: Invalid image dimensions: 296 x 160, expected 800 x 480
+2026-04-28 17:45:00,097 [INFO] __main__: Dashboard Started
+2026-04-28 17:45:25,491 [INFO] __main__: Display Slept
+2026-04-28 17:49:08,301 [INFO] __main__: Dashboard Started
+2026-04-28 17:49:33,670 [INFO] __main__: Display Slept
+2026-04-28 17:51:25,134 [INFO] __main__: Dashboard Started
+2026-04-28 17:51:50,510 [INFO] __main__: Display Slept
