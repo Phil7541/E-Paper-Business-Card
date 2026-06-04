@@ -191,3 +191,44 @@
 2026-04-28 17:49:33,670 [INFO] __main__: Display Slept
 2026-04-28 17:51:25,134 [INFO] __main__: Dashboard Started
 2026-04-28 17:51:50,510 [INFO] __main__: Display Slept
+2026-06-04 20:26:57,940 [INFO] __main__: Dashboard Started
+2026-06-04 20:26:57,949 [WARNING] waveshare_epd.epd2in15g: Invalid image dimensions: 800 x 480, expected 160 x 296
+2026-06-04 20:29:47,140 [INFO] __main__: Dashboard Started
+2026-06-04 20:29:49,393 [INFO] __main__: Display Slept
+2026-06-04 20:32:38,873 [INFO] __main__: Dashboard Started
+2026-06-04 20:32:41,126 [INFO] __main__: Display Slept
+2026-06-04 20:33:28,319 [INFO] __main__: Dashboard Started
+2026-06-04 20:35:08,481 [INFO] __main__: Dashboard Started
+2026-06-04 20:49:02,953 [INFO] __main__: Init complete
+2026-06-04 20:49:02,954 [INFO] __main__: Dashboard Started
+2026-06-04 20:49:02,954 [INFO] __main__: Rendering
+2026-06-04 20:49:02,960 [INFO] __main__: Rotating
+2026-06-04 20:49:02,960 [INFO] __main__: Converting
+2026-06-04 20:49:02,985 [INFO] __main__: Displaying
+2026-06-04 20:49:03,109 [INFO] __main__: Display complete
+2026-06-04 20:49:05,216 [INFO] __main__: Display Slept
+2026-06-04 20:49:46,813 [INFO] __main__: Init complete
+2026-06-04 20:49:46,813 [INFO] __main__: Dashboard Started
+2026-06-04 20:49:46,813 [INFO] __main__: Sending test image
+2026-06-04 20:49:46,943 [INFO] __main__: Done
+2026-06-04 20:49:49,044 [INFO] __main__: Display Slept
+2026-06-04 20:51:14,837 [INFO] __main__: Init complete
+2026-06-04 20:51:14,837 [INFO] __main__: Dashboard Started
+2026-06-04 20:51:14,837 [INFO] __main__: BUSY state = 1
+2026-06-04 20:51:14,838 [INFO] __main__: Sending test image
+2026-06-04 20:51:14,967 [INFO] __main__: Done
+2026-06-04 20:51:17,068 [INFO] __main__: Display Slept
+2026-06-04 20:52:04,735 [INFO] __main__: Init complete
+2026-06-04 20:52:04,735 [INFO] __main__: Dashboard Started
+2026-06-04 20:52:04,735 [INFO] __main__: BUSY state = 1
+2026-06-04 20:52:04,736 [INFO] __main__: Sending test image
+2026-06-04 20:52:25,548 [INFO] __main__: Done
+2026-06-04 20:52:27,657 [INFO] __main__: Display Slept
+2026-06-04 20:54:34,955 [INFO] __main__: Init complete
+2026-06-04 20:54:34,956 [INFO] __main__: Dashboard Started
+2026-06-04 20:54:34,956 [INFO] __main__: Rendering
+2026-06-04 20:54:34,960 [INFO] __main__: Rotating
+2026-06-04 20:54:34,960 [INFO] __main__: Converting
+2026-06-04 20:54:34,985 [INFO] __main__: Displaying
+2026-06-04 20:54:55,795 [INFO] __main__: Display complete
+2026-06-04 20:54:57,895 [INFO] __main__: Display Slept

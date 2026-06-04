@@ -7,7 +7,7 @@ from logging.handlers import RotatingFileHandler
 LOG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "logs")
 os.makedirs(LOG_DIR, exist_ok=True)
 
-LOG_FILE = os.path.join(LOG_DIR, "dashboard.log")
+LOG_FILE = os.path.join(LOG_DIR, "card.log")
 
 file_handler = RotatingFileHandler(
     LOG_FILE,
@@ -28,34 +28,36 @@ WAVESHARE_LIB = os.path.join(BASE_DIR, "lib")
 
 sys.path.append(WAVESHARE_LIB)
 
-from waveshare_epd import epd7in5h
+from waveshare_epd import epd2in15g
 
 import renderer
 
 logger = logging.getLogger(__name__)
 
 def setup():
-    epd = epd7in5h.EPD()
+    epd = epd2in15g.EPD()
     epd.init()
     epd.Clear()
     time.sleep(1)
     return epd
     
 def test_render():
-    image = renderer.render_dashboard()
-    image.save("dashboard.png")
+    image = renderer.render_card()
+    image.save("card.png")
 
 def test_display():
     epd = setup()
-    image = renderer.render_dashboard()
+    image = renderer.render_card()
     epd.display(epd.getbuffer(image))
 
 if __name__ == "__main__":
     epd = setup()
-    logger.info("Dashboard Started")
-
-    image = renderer.render_dashboard()
-    epd.display(epd.getbuffer(image))
+    logger.info("Flashing Started")
     
+    image = renderer.render_card()
+    image = image.rotate(90, expand=True)
+    buf = epd.getbuffer(image)
+    epd.display(buf)
+        
     epd.sleep()
     logger.info("Display Slept")

@@ -47,8 +47,8 @@ def draw_card(draw, image):
     draw.line([(195,110),(195,148)], fill="black")
     draw.multiline_text((200,112), "Junior\nDeveloper", font=BODY_FONT, fill="black", spacing=0)
 
-def render_dashboard():
-    image = Image.new("RGB", (800, 480), "white") # TODO: Change to 296 x 160
+def render_card():
+    image = Image.new("RGB", (296, 160), "white")
     draw = ImageDraw.Draw(image)
 
     draw_card(draw, image)
@@ -57,5 +57,5 @@ def render_dashboard():
 
 if __name__ == "__main__":
 
-    image = render_dashboard()
+    image = render_card()
     image.save(os.path.join(BASE_DIR, "images", "output.png"))
